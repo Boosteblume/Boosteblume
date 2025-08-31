@@ -9,7 +9,7 @@ Currently architecting enterprise RAG chatbots and automated data pipelines at *
 ## 🚀 What I Do
 
 - **🤖 Enterprise AI Systems**: RAG chatbots, LLM integration, and automated data pipelines
-- **📊 Business Impact**: Delivered **€1.5M+ cost savings** through efficient data pipelines  
+- **📊 Business Impact**: Delivered **€1.5M+ cost savings** through end-to-end data pipelines 
 - **🔍 High-Performance Data Acquisition**: Web scraping, quality validation, and monitoring systems
 
 ---
@@ -18,7 +18,7 @@ Currently architecting enterprise RAG chatbots and automated data pipelines at *
 
 Role: Data Engineer @ AHEAD Automotive
 Mission: Next-generation AI for automotive aftermarket complexity
-Scale: Enterprise data pipelines • 15K+ sources • Mission-critical systems
+Scale: Enterprise data pipelines • Mission-critical systems
 
 ---
 
@@ -43,15 +43,6 @@ Scale: Enterprise data pipelines • 15K+ sources • Mission-critical systems
 
 ---
 
-## 📈 Key Achievements
-
-| 🎯 **Impact** | 🔢 **Scale** | 🏆 **Recognition** |
-|---------------|--------------|-------------------|
-| **€1.5M+ cost savings** through efficient data pipelines | **Board Member** @TechLabs Hamburg |
-| **Enterprise RAG systems** in production | **4GB+ data** processed daily | **150+ participants** tech education |
-| **Mission-critical pipelines** with 99.9% uptime | **Real-time monitoring** & quality control | **Microsoft Student Ambassador** |
-
----
 
 ## 🎓 Leadership & Community
 
