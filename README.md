@@ -10,8 +10,7 @@ Currently architecting enterprise RAG chatbots and automated data pipelines at *
 ## 🚀 What I Do
 
 - **🤖 Enterprise AI Systems**: RAG chatbots, LLM integration, and automated data pipelines
-- **⚡ Data Pipeline Architecture**: Apache Airflow orchestration processing **15,000+ sources daily**
-- **📊 Business Impact**: Delivered **€1.5M+ cost savings** through AI-powered automation  
+- **📊 Business Impact**: Delivered **€1.5M+ cost savings** through efficient data pipelines  
 - **🔍 High-Performance Data Acquisition**: Web scraping, quality validation, and monitoring systems
 
 ---
@@ -22,7 +21,6 @@ Currently architecting enterprise RAG chatbots and automated data pipelines at *
 Role: Data Engineer @ AHEAD Automotive
 Mission: Next-generation AI for automotive aftermarket complexity
 Scale: Enterprise data pipelines • 15K+ sources • Mission-critical systems
-Impact: €1.5M+ business value delivered through automation
 ```
 
 ---
@@ -43,6 +41,7 @@ Impact: €1.5M+ business value delivered through automation
 
 ### **Databases & Storage**
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
 ---
@@ -51,7 +50,7 @@ Impact: €1.5M+ business value delivered through automation
 
 | 🎯 **Impact** | 🔢 **Scale** | 🏆 **Recognition** |
 |---------------|--------------|-------------------|
-| **€1.5M+ cost savings** through AI automation | **15,000+ sources** processed daily | **Board Member** @TechLabs Hamburg |
+| **€1.5M+ cost savings** through efficient data pipelines | **Board Member** @TechLabs Hamburg |
 | **Enterprise RAG systems** in production | **4GB+ data** processed daily | **150+ participants** tech education |
 | **Mission-critical pipelines** with 99.9% uptime | **Real-time monitoring** & quality control | **Microsoft Student Ambassador** |
 
@@ -68,19 +67,8 @@ Impact: €1.5M+ business value delivered through automation
 ## 🔥 Recent Projects
 
 - **🤖 Enterprise RAG Chatbot** - Comprehensive data pipeline with advanced monitoring
-- **⚡ High-Performance Web Crawler** - Processing 15K+ sources with quality validation  
 - **📱 Raycast Personio Extension** - [Published on Raycast Store](https://www.raycast.com/boosteblume/personio)
 - **🏗️ Property Graph Benchmarking** - Vector DB vs Graph DB performance analysis
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=boosteblume&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
-
-</div>
 
 ---
 
@@ -88,14 +76,9 @@ Impact: €1.5M+ business value delivered through automation
 
 - **💼 LinkedIn**: [max-blum](https://www.linkedin.com/in/max-blum/)
 - **🌐 Portfolio**: [max-blum.org](https://max-blum.org)  
-- **📧 Email**: max.blum@max-blum.org
+- **📧 Email**: max@max-blum.org
 - **📍 Location**: Hamburg, Germany
 
----
-
-## 💭 Philosophy
-
-*"Passionate about applying data engineering to solve high-impact problems that matter. From automating supply chain operations to building enterprise AI systems - I focus on creating robust solutions that deliver measurable impact."*
 
 ---
 
