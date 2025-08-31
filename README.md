@@ -1,4 +1,3 @@
-```markdown
 # Hey, I'm Max! 👋
 
 **Data Engineer building mission-critical AI systems and data infrastructure in Hamburg**
@@ -17,11 +16,9 @@ Currently architecting enterprise RAG chatbots and automated data pipelines at *
 
 ## 💼 Current Focus
 
-```yaml
 Role: Data Engineer @ AHEAD Automotive
 Mission: Next-generation AI for automotive aftermarket complexity
 Scale: Enterprise data pipelines • 15K+ sources • Mission-critical systems
-```
 
 ---
 
