@@ -1,14 +1,15 @@
 # Hey, I'm Max! 👋
 
-**Data Engineer building mission-critical AI systems and data infrastructure in Hamburg**
+**Data Engineer specializing in LLM workflows, RAG systems, and large-scale data infrastructure**
 
-Currently architecting enterprise RAG chatbots and automated data pipelines at **AHEAD Automotive**. Passionate about applying data engineering to solve high-impact problems that matter.
+Building production AI systems at **AHEAD Automotive** in Hamburg. I architect data pipelines that process **3M+ documents**, design LLM evaluation frameworks, and create tools that drive measurable business impact.
 
 ---
 
 ## 🚀 What I Do
 
-- **🤖 Enterprise AI Systems**: RAG chatbots, LLM integration, and automated data pipelines
+- **🤖 LLM & RAG Systems**: Production chatbots serving automotive industry with 3M+ document knowledge base
+- **📊 Data Engineering at Scale**: ETL pipelines, vector databases, and quality assessment frameworks
 - **📊 Business Impact**: Delivered **€1.5M+ cost savings** through end-to-end data pipelines 
 - **🔍 High-Performance Data Acquisition**: Web scraping, quality validation, and monitoring systems
 
