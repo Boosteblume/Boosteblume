@@ -19,7 +19,6 @@ Building production AI systems at **AHEAD Automotive** in Hamburg. I architect d
 
 Role: Data Engineer @ AHEAD Automotive
 Mission: Next-generation AI for automotive aftermarket complexity
-Scale: Enterprise data pipelines • Mission-critical systems
 
 ---
 
